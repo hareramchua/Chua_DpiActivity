@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\CS345\Chua_IP1\bin\Debug\Chua_IP1.exe
+C:\Users\USER\Documents\CS345\Chua_IP1\bin\Debug\Chua_IP1.pdb
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.Properties.Resources.resources
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.csproj.GenerateResource.cache
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.exe
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.pdb
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.Main.resources
+C:\Users\USER\Documents\CS345\Chua_IP1\obj\Debug\Chua_IP1.SubtractImage.resources
