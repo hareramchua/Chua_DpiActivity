@@ -59,6 +59,12 @@ namespace Chua_IP1
             pictureBox3.Image = processed;
         }
 
+        private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+            pictureBox3.Image = processed;
+            processed.Save(saveFileDialog1.FileName);
+        }
+
         public SubtractImage()
         {
             InitializeComponent();

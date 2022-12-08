@@ -127,6 +127,12 @@ namespace Chua_IP1
             si.ShowDialog();
         }
 
+        private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+            pictureBox2.Image = processed;
+            processed.Save(saveFileDialog1.FileName);
+        }
+
         public Main()
         {
             InitializeComponent();
