@@ -133,6 +133,20 @@ namespace Chua_IP1
             processed.Save(saveFileDialog1.FileName);
         }
 
+        private void copyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            processed = new Bitmap(loaded.Width, loaded.Height);
+            for (int x = 0; x < loaded.Width; x++)
+            {
+                for (int y = 0; y < loaded.Height; y++)
+                {
+                    Color c = loaded.GetPixel(x, y);
+                    processed.SetPixel(x, y, c);
+                }
+            }
+            pictureBox2.Image = processed;
+        }
+
         public Main()
         {
             InitializeComponent();
